@@ -1,5 +1,8 @@
 # InstaCart Data Analysis
 
+## Dataset Details
+This project uses the Instacart dataset from [Kaggle](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data).
+
 ## Key Analytical Questions for Dataset Insights
 
 Q1. Mention the 3 most popular aisles among customers?
